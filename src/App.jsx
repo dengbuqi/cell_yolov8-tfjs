@@ -59,7 +59,7 @@ const App = () => {
           Serving : <code className="code">{modelName}</code>
         </p>
       </div>
-
+ 
       <div className="content">
         <img
           src="#"
